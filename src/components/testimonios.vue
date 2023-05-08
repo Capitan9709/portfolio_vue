@@ -4,50 +4,60 @@
     <div>
         <h2 class="text-4xl font-bold mt-8 text-center font-oswald">Testimonies</h2>
         <div class="bg-gray-100 py-8 flex flex-row flex-wrap mt-14">
-            <div class="max-w-2xl mx-auto bg-white rounded-lg shadow-md p-6 mb-4">
+            <div class="max-w-2xl mx-auto bg-slate-800 text-white rounded-lg shadow-md p-6 mb-4">
                 <img class="w-24 h-24 rounded-full object-cover mb-4 mx-auto" src="../../public/perfil1.jpg" alt="perfil">
-                <p class="text-gray-700 text-lg text-center mb-4">
-                    "I am very satisfied with Sara's work.
-                    She has been very professional at all times and has delivery the project on time.
-                    In addition, her capacity to solve problems and her attention to detail are impressive.
-                    Without a doubt, I will hire her services again in the future."
+                <p class="text-lg text-center mb-4">
+                    "I had the pleasure of working with Luis on several 
+                    occasions when my computer needed repairs. He is an 
+                    outstanding technician who quickly diagnosed the 
+                    problem and fixed it efficiently. He is professional, 
+                    courteous, and always willing to answer any questions 
+                    I had. I highly recommend him for any computer repair 
+                    needs."
                 </p>
-                <p class="text-gray-800 font-semibold text-center text-xl">Aurelio</p>
+                <p class="font-semibold text-center text-xl">Jesus</p>
             </div>
             
-            <div class="max-w-2xl mx-auto bg-white rounded-lg shadow-md p-6 mb-4">
+            <div class="max-w-2xl mx-auto bg-slate-800 text-white rounded-lg shadow-md p-6 mb-4">
                 <img class="w-24 h-24 rounded-full object-cover mb-4 mx-auto" src="../../public/perfil2.jpg" alt="perfil">
-                <p class="text-gray-700 text-lg text-center mb-4">
-                    "I wanted to improve my online presense and Sara has helped me to achieve it.
-                    She has designed a modern and attractive website, which has exceeded my expectations.
-                    In addition, it has been very easy to communicate with her throughout the process.
-                    I recommend her without a doubt!"
+                <p class="text-lg text-center mb-4">
+                    "I had the pleasure of working with Luis on a web 
+                    development project and was impressed by his attention 
+                    to detail and ability to problem-solve. His technical 
+                    expertise in microinformatics and networks was 
+                    invaluable, and he was always willing to go above and 
+                    beyond to ensure the project's success."
                 </p>
-                <p class="text-gray-800 font-semibold text-center text-xl">Rose</p>
+                <p class="font-semibold text-center text-xl">Rose</p>
             </div>
 
-            <div class="max-w-2xl mx-auto bg-white rounded-lg shadow-md p-6 mb-4">
+            <div class="max-w-2xl mx-auto bg-slate-800 text-white rounded-lg shadow-md p-6 mb-4">
                 <img class="w-24 h-24 rounded-full object-cover mb-4 mx-auto" src="../../public/perfil4.png" alt="perfil">
-                <p class="text-gray-700 text-lg text-center mb-4">
-                    "Trabajar con Sara ha sido una experiencia muy positiva. 
-                    Me ha ofrecido soluciones creativas y efectivas para los desafíos técnicos que se presentaron en mi proyecto, y ha demostrado una gran capacidad para adaptarse a mis necesidades. 
-                    Además, siempre ha sido muy amable y accesible en todo momento."
-
-                    "Workink with sara has been a positive experience.
-                    She has offered me creative and effective solutions for the technical challenges that arose in my project, and has shown a great ability to adapt to my needs.
-                    In addition, she has always been very kind and accessible at all times."
+                <p class="text-lg text-center mb-4">
+                    "I had the pleasure of working with Luis on 
+                    several projects, and his technical skills in 
+                    microinformatics and networks were instrumental 
+                    to their success. He is detail-oriented, thorough, 
+                    and always willing to go the extra mile to ensure 
+                    that the project is completed on time and to a high 
+                    standard. I highly recommend him for any IT project 
+                    that requires a skilled and dedicated technician."
                 </p>
-                <p class="text-gray-800 font-semibold text-center text-xl">Josephine</p>
+                <p class="font-semibold text-center text-xl">Sara</p>
             </div>
 
-            <div class="max-w-2xl mx-auto bg-white rounded-lg shadow-md p-6 mb-4">
+            <div class="max-w-2xl mx-auto bg-slate-800 text-white rounded-lg shadow-md p-6 mb-4">
                 <img class="w-24 h-24 rounded-full object-cover mb-4 mx-auto" src="../../public/perfil3.png" alt="perfil">
-                <p class="text-gray-700 text-lg text-center mb-4">
-                    "I wanted a website that reflected the personality of my brand, and Sara has perfectly captured what I was looking for.
-                    The design of the website is exceptional and the functionality is perfectly implemented.
-                    At all times she has shown great professionalism and her attention to detail is admirable."
+                <p class="text-lg text-center mb-4">
+                    "Luis is an exceptional web developer who is highly 
+                    skilled in microinformatics and networks. He is 
+                    passionate about his work and always goes the extra 
+                    mile to ensure that the project is successful. 
+                    His technical expertise and attention to detail are 
+                    second to none, and I would recommend him to anyone 
+                    looking for a top-notch web developer."
                 </p>
-                <p class="text-gray-800 font-semibold text-center text-xl">Frank</p>
+                <p class="font-semibold text-center text-xl">Frank</p>
             </div>
         </div>
     </div>

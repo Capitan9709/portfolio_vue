@@ -7,7 +7,7 @@
 			<div class="w-full xl:w-3/4 lg:w-11/12 flex">
 				<img
 					class="w-full h-auto hidden lg:block lg:w-5/12 bg-cover rounded-l-lg"
-					src="../../public/contacto.png"/>
+					src="../../public/contacto.jpg" alt="imagen telefono"/>
 				<div class="w-full lg:w-7/12 bg-white p-5 rounded-lg lg:rounded-l-none">
 					<h3 class="pt-4 text-3xl text-center font-bold font-oswald">Contact</h3>
 					<form class="px-8 pt-6 pb-8 mb-4 bg-white rounded">
@@ -54,7 +54,7 @@
 						
 						<div class="mb-12 text-center">
 							<button
-								class="bg-teal-600 font-bold hover:bg-teal-700 text-white py-2 px-4 rounded-lg inline-block transition duration-300 ease-in-out"
+							class="bg-gray-600 font-bold hover:bg-gray-700 text-white py-2 px-4 rounded-lg inline-block transition duration-300 ease-in-out"
 								type="button">
 								Send
 							</button>

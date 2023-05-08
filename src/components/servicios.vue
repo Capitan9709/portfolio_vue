@@ -72,7 +72,7 @@ export default {
 
     /* transicion */
     position: relative;
-    background-color: #67a09b;
+    background-color: #111827;
     padding: 2rem;
     color:white;
     z-index: 1;
@@ -110,7 +110,7 @@ export default {
     transform: scaleX(1);
 }
 .service:hover{
-    color: #979371;
+    color: #525252;
 }
 
 }

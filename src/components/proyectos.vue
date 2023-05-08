@@ -15,6 +15,7 @@
             <a href="https://neon-whatsapp.onrender.com/" target="_blank" class="bg-gray-600 font-bold hover:bg-gray-700 text-white py-2 px-4 rounded-lg inline-block transition duration-300 ease-in-out">Ver proyecto <i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
+
         <div class="bg-white shadow-2xl rounded-lg">
           <img src="../../public/proyecto1.png" alt="granauto image" class="rounded-t-lg">
           <div class="p-6">
@@ -25,6 +26,7 @@
             <a href="https://capitan9709.github.io/Proyecto_Sass_GranAuto/" target="_blank" class="bg-gray-600 font-bold hover:bg-gray-700 text-white py-2 px-4 rounded-lg inline-block transition duration-300 ease-in-out">Ver proyecto <i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
+
         <div class="bg-white shadow-2xl rounded-lg">
           <img src="../../public/proyecto3.png" alt="pokemon website image" class="rounded-t-lg">
           <div class="p-6">
@@ -35,6 +37,19 @@
             <a href="https://poke-api-63328.web.app/" target="_blank" class="bg-gray-600 font-bold hover:bg-gray-700 text-white py-2 px-4 rounded-lg inline-block transition duration-300 ease-in-out">Ver proyecto <i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
+
+        <div class="bg-white shadow-2xl rounded-lg">
+          <img src="../../public/proyecto7.png" alt="blogvault image" class="rounded-t-lg">
+          <div class="p-6">
+            <h3 class="text-xl font-bold mb-2">BlogVault</h3>
+            <p class="text-gray-700 mb-4">
+              A website designed to create and share your blog posts.<br/>
+              Still in development
+            </p>
+            <a href="https://blogvault-vue.web.app/" target="_blank" class="bg-gray-600 font-bold hover:bg-gray-700 text-white py-2 px-4 rounded-lg inline-block transition duration-300 ease-in-out">Ver proyecto <i class="fa-solid fa-arrow-right"></i></a>
+          </div>
+        </div>
+
         <div class="bg-white shadow-2xl rounded-lg">
           <img src="../../public/proyecto4.png" alt="movie search image" class="rounded-t-lg">
           <div class="p-6">
@@ -45,6 +60,7 @@
             <a href="https://capitan9709.github.io/Api_Peliculas_VueJS/" target="_blank" class="bg-gray-600 font-bold hover:bg-gray-700 text-white py-2 px-4 rounded-lg inline-block transition duration-300 ease-in-out">Ver proyecto <i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
+
         <div class="bg-white shadow-2xl rounded-lg">
           <img src="../../public/proyecto5.png" alt="reminderlist image" class="rounded-t-lg">
           <div class="p-6">
@@ -55,6 +71,7 @@
             <a href="https://recordatorios-componentesvuejs.web.app/" target="_blank" class="bg-gray-600 font-bold hover:bg-gray-700 text-white py-2 px-4 rounded-lg inline-block transition duration-300 ease-in-out">Ver proyecto <i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
+
         <div class="bg-white shadow-2xl rounded-lg">
           <img src="../../public/proyecto6.png" alt="cocktail website image" class="rounded-t-lg">
           <div class="p-6">
@@ -65,16 +82,7 @@
             <a href="https://cocktail-website.onrender.com/home" target="_blank" class="bg-gray-600 font-bold hover:bg-gray-700 text-white py-2 px-4 rounded-lg inline-block transition duration-300 ease-in-out">Ver proyecto <i class="fa-solid fa-arrow-right"></i></a>
           </div>
         </div>
-        <div class="bg-white shadow-2xl rounded-lg">
-          <img src="../../public/proyecto7.png" alt="blogvault image" class="rounded-t-lg">
-          <div class="p-6">
-            <h3 class="text-xl font-bold mb-2">BlogVault</h3>
-            <p class="text-gray-700 mb-4">
-              A website designed to create and share your blog posts
-            </p>
-            <a href="https://blogvault-vue.web.app/" target="_blank" class="bg-gray-600 font-bold hover:bg-gray-700 text-white py-2 px-4 rounded-lg inline-block transition duration-300 ease-in-out">Ver proyecto <i class="fa-solid fa-arrow-right"></i></a>
-          </div>
-        </div>
+        
       </div>
     </div>
   </section>
